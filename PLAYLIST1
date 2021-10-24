@@ -397,6 +397,14 @@ http://indo51.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
 http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,iptvtools_1335
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,COLORS TV HD LOW
+http://jo123.biz/jweb/m3u8.php?c=Colors_HD&q=400&e=junk.m3u8
+#EXTINF:-1,COLORS TV HD MEDIUM
+http://jo123.biz/jweb/m3u8.php?c=Colors_HD&q=600&e=junk.m3u8
+#EXTINF:-1,COLORS TV HD HIGH
+http://jo123.biz/jweb/m3u8.php?c=Colors_HD&q=800&e=junk.m3u8
+#EXTINF:-1,COLORS TV HD UTRA HIGH
+http://jo123.biz/jweb/m3u8.php?c=Colors_HD&q=1200&e=junk.m3u8
 #EXTINF:-1,iptvtools_1338
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF:-1,iptvtools_1339
@@ -418,9 +426,8 @@ https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 #EXTINF:-1,iptvtools_1402
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 #EXTINF:-1,iptvtools_1405
-https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
-#EXTM3U
-#EXTINF:-1,iptvtools_1
+https://feed.play.mv/live/10005200/sdwa8BgXE4/master.
+#EXTINF:-1,9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1,iptvtools_6
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
@@ -15591,13 +15598,13 @@ ZEE TV HD-Rs 19
 http://103.153.39.34:8000/play/a055/index.m3u8
 Zoom - 50p
 http://103.153.39.34:8000/play/a06c/index.m3u8
-colors CINEPLEX-Rs3
+#EXTINF:-1,colors CINEPLEX-Rs3
 http://103.153.39.34:8000/play/a09e/index.m3u8
-colors INFIN-Rs9
+#EXTINF:-1,colors INFIN-Rs9
 http://103.153.39.34:8000/play/a06g/index.m3u8
-hungama tv-Rs 6
+#EXTINF:-1,hungama tv-Rs 6
 http://103.153.39.34:8000/play/a04l/index.m3u8
-nick - Rs 6
+#EXTINF:-1,nick - Rs 6
 http://103.153.39.34:8000/play/a068/index.m3u8
-nick HD+- Rs 10
+#EXTINF:-1,nick HD+- Rs 10
 http://103.153.39.34:8000/play/a06h/index.m3u8
