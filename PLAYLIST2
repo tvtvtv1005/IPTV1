@@ -31,15 +31,12 @@ http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS ENT.",CARTOON NETWORK
 http://45.249.187.238:8081/hls/new14.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS ENT.",CARTOON NETWORK HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="KIDS ENT.",ANIMAX
 http://45.126.83.51/dr9445/h/h144/01.m3u8?@amarnettv.live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="KIDS ENT.",AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8?@amarnettv.live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="KIDS ENT.",MBC 3
 https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="BDIX SERVER1",COLORS HD
