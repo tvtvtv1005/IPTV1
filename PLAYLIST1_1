@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Zoomoo HD [12]
 https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT" tvg-logo="N/A"STARPLUS HD
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Zing MP3 - Vpop
 https://multi-playlist-zmp3.zadn.vn/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Zing MP3 - USUK
