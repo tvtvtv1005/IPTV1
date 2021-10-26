@@ -35,7 +35,6 @@ http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/apacsea/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Zee TV (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-
 #EXTINF:-1  tvg-id="N/A" group-title="INDIAN (Free)" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2020/04/Zee-Smile-1.jpg",Zee Smile
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/smileusa/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="📺News 📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.svg.png",Zee News
@@ -100,8 +99,6 @@ https://localnowwildwest-live.localnowlive.com/v1/manifest/385c85a93929f94966d0f
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",WHDH-TV
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1  tvg-id="" group-title="📺 English Movies 📺" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg",WB TV
-http://203.154.243.89:1205
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Way Point
 https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",Watch It Scream! (720p)
