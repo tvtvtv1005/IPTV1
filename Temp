@@ -6434,5 +6434,55 @@ http://139.59.55.243/sunnxt/live.php?c=26573&e=.m3u8
 http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
 #EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Sneh SunNXT",Adithya TV
 http://139.59.55.243/sunnxt/live.php?c=9023&e=.m3u8
-
-
+#EXTINF:-1,ZEE BOLLYWOOD 
+http://uknet.ddns.net/701.stream/index.m3u8 
+#EXTINF:-1,SONY SAB HD 
+http://uknet.ddns.net/702.stream/index.m3u8 
+#EXTINF:-1,&TV HD 
+http://uknet.ddns.net/703.stream/index.m3u8 
+#EXTINF:-1,PTC CHAKDE 
+http://uknet.ddns.net/704.stream/index.m3u8 
+#EXTINF:-1,&PICTURES 
+http://uknet.ddns.net/705.stream/index.m3u8 
+#EXTINF:-1,SONY MAX HD 
+http://uknet.ddns.net/706.stream/index.m3u8 
+#EXTINF:-1,ZEE BANGLA CHINEMA 
+http://uknet.ddns.net/708.stream/index.m3u8 
+#EXTINF:-1,STAR GOLD SELECT HD 
+http://uknet.ddns.net/709.stream/index.m3u8 
+#EXTINF:-1,STAR SPORTS 1 HD 
+http://uknet.ddns.net/710.stream/index.m3u8 
+#EXTINF:-1,TEN SPORTS 
+http://uknet.ddns.net/711.stream/index.m3u8 
+#EXTINF:-1,TEN 2 HD 
+http://uknet.ddns.net/712.stream/index.m3u8 
+#EXTINF:-1,TEN 3 HD 
+http://uknet.ddns.net/713.stream/index.m3u8 
+#EXTINF:-1,TG2 
+http://uknet.ddns.net/714.stream/index.m3u8 
+#EXTINF:-1,STAR SPORTS 2 HD 
+http://uknet.ddns.net/715.stream/index.m3u8 
+#EXTINF:-1,STAR JALSA MOVIES 
+http://uknet.ddns.net/716.stream/index.m3u8 
+#EXTINF:-1,STAR GOLD HD 
+http://uknet.ddns.net/717.stream/index.m3u8 
+#EXTINF:-1,PAK NEWS 
+http://uknet.ddns.net/718.stream/index.m3u8 
+#EXTINF:-1,STAR BHARAT HD 
+http://uknet.ddns.net/721.stream/index.m3u8 
+#EXTINF:-1,ZEE ANMAL CINEMA 
+http://uknet.ddns.net/722.stream/index.m3u8 
+#EXTINF:-1,TSports 
+http://uknet.ddns.net/905.stream/index.m3u8 
+#EXTINF:-1,Zee 24 Ghonta 
+http://uknet.ddns.net/901.stream/index.m3u8 
+#EXTINF:-1,Akash Aath 
+http://uknet.ddns.net/902.stream/index.m3u8 
+#EXTINF:-1,Sun bangla 
+http://uknet.ddns.net/903.stream/index.m3u8 
+#EXTINF:-1,Colors bangla 
+http://uknet.ddns.net/904.stream/index.m3u8 
+#EXTINF:-1,Zee bangla 
+http://uknet.ddns.net/906.stream/index.m3u8 
+#EXTINF:-1,Sangeet bangla 
+http://uknet.ddns.net/907.stream/index.m3u8 
