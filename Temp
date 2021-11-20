@@ -104,3 +104,7 @@ http://5gtv.online:80/ORDpDdqkJc/xyVPZGeDIS/108244
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,IN || Star plus
 http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+#EXTINF:-1,IN || Star plus
+http://103.153.39.34:8000/play/a054/index.m3u8
+#EXTINF:-1,IN || Star plus
+http://tv.pmcon.net/hls/stream38.m3u8?token=rk
