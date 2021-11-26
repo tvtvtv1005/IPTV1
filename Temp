@@ -108,8 +108,18 @@ http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 http://103.153.39.34:8000/play/a054/index.m3u8
 #EXTINF:-1,IN || Star plus
 http://tv.pmcon.net/hls/stream38.m3u8?token=rk
-
- 
+#EXTINF:-1,IN ||Zee Cinema SD 
+http://jo123.biz/jweb/m3u8.php?c=Zee_Cinema&=600&e=.m3u8
+#EXTINF:-1,IN ||Zee Cinema HD 
+http://jo123.biz/jweb/m3u8.php?c=Zee_Cinema_HD&=600&e=.m3u8
+#EXTINF:-1,IN ||Zee Anmol Cinema 
+http://jo123.biz/jweb/m3u8.php?c=Zee_Anmol_Cinema&=600&e=.m3u8
+#EXTINF:-1,IN ||Zee Action HD 
+http://jo123.biz/jweb/m3u8.php?c=Zee_Action&=600&e=.m3u8
+#EXTINF:-1,IN ||& Picture 
+http://jo123.biz/jweb/m3u8.php?c=And_Pictures_HD&=600&e=.m3u8
+#EXTINF:-1,IN ||B4U Kadak 
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
  
  
  
