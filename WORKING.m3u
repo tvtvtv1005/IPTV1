@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 ,&flix HD-
+http://103.153.39.34:8000/play/a057/index.m3u8
+#EXTINF:-1 ,&PICTURES
+http://uknet.ddns.net/705.stream/index.m3u8
+#EXTINF:-1 ,&pictures
+http://103.153.39.34:8000/play/a05o/index.m3u8
+#EXTINF:-1 ,&TV HD
+http://uknet.ddns.net/703.stream/index.m3u8
+#EXTINF:-1 ,&tv HD
+http://103.153.39.34:8000/play/a06t/index.m3u8
+#EXTINF:-1 ,|IN|India News
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1274.m3u8
+#EXTINF:-1 ,|IN|Jalwa
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1275.m3u8
+#EXTINF:-1 ,|IN|Kashish
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1276.m3u8
+#EXTINF:-1 ,|IN|Ktv HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1277.m3u8
+#EXTINF:-1 ,|IN|Lok Sabha
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1278.m3u8
+#EXTINF:-1 ,|IN|Mahamovies
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1279.m3u8
+#EXTINF:-1 ,|IN|Masti
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1280.m3u8
+#EXTINF:-1 ,|IN|Nat Geo Wild
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1281.m3u8
+#EXTINF:-1 ,|IN|National Geographic
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1282.m3u8
+#EXTINF:-1 ,|IN|News Rajhistan
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1283.m3u8
+#EXTINF:-1 ,|IN|Nick HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1284.m3u8
+#EXTINF:-1 ,|IN|Paigham Pashtoo
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1285.m3u8
+#EXTINF:-1 ,|IN|Paigham Urdu
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1286.m3u8
+#EXTINF:-1 ,|IN|Peace Tv English
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1287.m3u8
+#EXTINF:-1 ,|IN|Peace Tv HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1288.m3u8
+#EXTINF:-1 ,|IN|Pix HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1289.m3u8
+#EXTINF:-1 ,|IN|Ptc Chak De
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1290.m3u8
+#EXTINF:-1 ,|IN|Ptc News
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1291.m3u8
+#EXTINF:-1 ,|IN|Ptc Punjabi
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1292.m3u8
+#EXTINF:-1 ,|IN|Public News
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1293.m3u8
+#EXTINF:-1 ,|IN|Rajya Sabha
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1294.m3u8
+#EXTINF:-1 ,|IN|Republic News
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1295.m3u8
+#EXTINF:-1 ,|IN|Sky Star Movies
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1296.m3u8
+#EXTINF:-1 ,|IN|Sony HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1301.m3u8
+#EXTINF:-1 ,|IN|Sony Max HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1300.m3u8
+#EXTINF:-1 ,|IN|Sony Sab HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1299.m3u8
+#EXTINF:-1 ,|IN|Sony Six HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1298.m3u8
+#EXTINF:-1 ,|IN|Sony Yay
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1297.m3u8
+#EXTINF:-1 ,|IN|Star Bharat
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1302.m3u8
+#EXTINF:-1 ,|IN|Star Gold HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1303.m3u8
+#EXTINF:-1 ,|IN|Star Gold Select HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1304.m3u8
+#EXTINF:-1 ,|IN|Star Maa HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1305.m3u8
+#EXTINF:-1 ,|IN|Star Movies HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1306.m3u8
+#EXTINF:-1 ,|IN|Star Plus HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1307.m3u8
+#EXTINF:-1 ,|IN|Star Sports Hindi HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1308.m3u8
+#EXTINF:-1 ,|IN|Star Sports Select 1 HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1309.m3u8
+#EXTINF:-1 ,|IN|Star Sports Select 2 HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1310.m3u8
+#EXTINF:-1 ,|IN|Star Sprots 1 HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1311.m3u8
+#EXTINF:-1 ,|IN|Star Vijay HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1312.m3u8
+#EXTINF:-1 ,|IN|Star Vijay Super
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1313.m3u8
+#EXTINF:-1 ,|IN|Star World HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1314.m3u8
+#EXTINF:-1 ,|IN|Stars Ports 2 HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1315.m3u8
+#EXTINF:-1 ,|IN|Sun Tv HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1316.m3u8
+#EXTINF:-1 ,|IN|Surya Samachar
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1317.m3u8
+#EXTINF:-1 ,|IN|Ten 1 HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1318.m3u8
+#EXTINF:-1 ,|IN|Ten 2 HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1319.m3u8
+#EXTINF:-1 ,|IN|Ten Sports
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1322.m3u8
+#EXTINF:-1 ,|IN|Ten Sports 3 HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1320.m3u8
+#EXTINF:-1 ,|IN|Ten Sports HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1321.m3u8
+#EXTINF:-1 ,|IN|Tlc World
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1323.m3u8
+#EXTINF:-1 ,|IN|Travel Xp HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1324.m3u8
+#EXTINF:-1 ,|IN|Utv Action
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1325.m3u8
+#EXTINF:-1 ,|IN|Zee Action HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1335.m3u8
+#EXTINF:-1 ,|IN|Zee Anmol HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1336.m3u8
+#EXTINF:-1 ,|IN|Zee Bangla HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1326.m3u8
+#EXTINF:-1 ,|IN|Zee Classic HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1339.m3u8
+#EXTINF:-1 ,|IN|Zee Magic HD
+http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1340.m3u8
+#EXTINF:-1 ,IN || Star plus HD
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,IN ||& Picture
+http://jo123.biz/jweb/m3u8.php?c=And_Pictures_HD&=600&e=.m3u8
+#EXTINF:-1 ,IN ||B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 ,IN ||Zee Action HD
+http://jo123.biz/jweb/m3u8.php?c=Zee_Action&=600&e=.m3u8
+#EXTINF:-1 ,IN ||Zee Anmol Cinema
+http://jo123.biz/jweb/m3u8.php?c=Zee_Anmol_Cinema&=600&e=.m3u8
+#EXTINF:-1 ,IN ||Zee Cinema HD
+http://jo123.biz/jweb/m3u8.php?c=Zee_Cinema_HD&=600&e=.m3u8
+#EXTINF:-1 ,IN ||Zee Cinema SD
+http://jo123.biz/jweb/m3u8.php?c=Zee_Cinema&=600&e=.m3u8
